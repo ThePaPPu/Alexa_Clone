@@ -1,0 +1,13 @@
+pip install SpeechRecognition
+pip install pyttsx3
+
+For PyAudio
+pip install PyAudio
+or,
+pip install pipwin
+pipwin install pyaudio
+
+pip install pywhatkit
+pip install pywhatkit
+pip install pyjokes
+
